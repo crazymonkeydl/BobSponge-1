@@ -1,11 +1,11 @@
 [
   {
       "grouping":"Industrial/Organizational Psychology",
-      "skills":[ "Test development", "Employee selection", "Project managment"]
+      "skills":[ "Test development", "Employee selection", "Project managment", "Data analysis"]
   },
   {
       "grouping":"Tools & languages",
-      "skills":[ " R","SPSS","jamovi", "MySQL"]
+      "skills":[ " R","jamovi", "Python"]
   },
   {
       "grouping":"Consulting",
