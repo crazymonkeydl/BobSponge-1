@@ -16,5 +16,5 @@ title: Home
 ## Contact
 
 - **Email**: DLeithUSMC@gmail.com
-- **LinkedIn**: [www.linkedin.com/in/dallas-leith-15a51b152](https://linkedin.com/in/Dallas Leith)
+- **LinkedIn**: [www.linkedin.com/in/dallas-leith-15a51b152](https://linkedin.com/in/Dallas_Leith)
 - **GitHub**: [https://github.com/crazymonkeydl](https://github.com/crazymonkeydl)
