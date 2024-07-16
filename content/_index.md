@@ -11,4 +11,10 @@ title: Home
 
 ## About me
 
-"Former Marine and current student in Louisiana Tech's PhD program for Industrial Organizational Psychology. I enjoy reading science fiction and painting minatures when i have free time (which is never currently)""
+"Former Marine and current student in Louisiana Tech's PhD program for Industrial Organizational Psychology. I enjoy reading science fiction and painting miniatures when i have free time (which is never currently)"
+
+## Contact
+
+- **Email**: DLeithUSMC@gmail.com
+- **LinkedIn**: [www.linkedin.com/in/dallas-leith-15a51b152](https://linkedin.com/in/Dallas Leith)
+- **GitHub**: [https://github.com/crazymonkeydl](https://github.com/crazymonkeydl)
