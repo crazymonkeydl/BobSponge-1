@@ -9,10 +9,6 @@ sitemap:
 title: Home
 ---
 
-**This template:** [https://github.com/katyem/BobSponge](https://github.com/katyem/BobSponge)
-
 ## About me
 
-I'm interested in all things related to Krabby Patty Making. I have over 25 years of experience as a KPM engineer. I also like snails!
-
-I also want to be your friend.
+"Former Marine and current student in Louisiana Tech's PhD program for Industrial Organizational Psychology. I enjoy reading science fiction and painting minatures when i have free time (which is never currently)""
