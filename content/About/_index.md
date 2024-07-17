@@ -6,7 +6,7 @@ outputs:
 - json
 sitemap:
   priority: 1
-title: Home
+title: About
 ---
 
 +++ title = "About" +++
