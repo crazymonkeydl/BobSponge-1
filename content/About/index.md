@@ -6,10 +6,11 @@ outputs:
 - json
 sitemap:
   priority: 1
-title: About
+title: Home
 ---
 
-+++ title = "About" +++
+**This template:** [https://github.com/katyem/BobSponge](https://github.com/katyem/BobSponge)
 
-“Former Marine and current student in Louisiana Tech’s PhD program for Industrial Organizational Psychology. I enjoy reading science fiction and painting miniatures when i have free time (which is never currently)”
+## About me
 
+I'm interested in all things related to Krabby Patty Making. I have over 25 years of experience as a KPM engineer. I also like snails!
