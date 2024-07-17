@@ -9,12 +9,12 @@ enableGitInfo = false
 
 [params]
 address = ""
-email = "bs@morebs.io"
+email = "dleithusmc@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Bob"
-lastName = "Sponge"
+firstName = "Dallas"
+lastName = "Leith"
 phone = ""
-profileImage = "img/bob.png"
+profileImage = "img/portrait_smart.png"
 showEducation = true
 showExperience = true
 showOpenSource = false
@@ -29,16 +29,12 @@ showSkills = true
 trackerID = ""
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sponge-b-2738611ba"
+link = "www.linkedin.com/in/dallas-leith"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/katyem/BobSponge"
+link = "https://github.com/crazymonkeydl"
 name = "GitHub"
-
-[[params.handles]]
-link = "https://mobile.twitter.com/SpongeBob"
-name = "Twitter"
 
 [outputs]
 home = ["HTML", "JSON"]
