@@ -1,4 +1,4 @@
-title = "BS CV"
+title = "DL CV"
 baseURL = "https://bobsponge.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -29,7 +29,7 @@ showSkills = true
 trackerID = ""
 
 [[params.handles]]
-link = "www.linkedin.com/in/dallas-leith"
+link = "https://www.linkedin.com/in/dallas-leith/"
 name = "LinkedIn"
 
 [[params.handles]]
