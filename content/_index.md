@@ -9,7 +9,6 @@ sitemap:
 title: Home
 ---
 
-
 ## About me
 
 I am currently a PhD student at Louisiana Tech, specializing in Industrial-Organizational Psychology. My academic journey is driven by a passion for understanding and optimizing workplace dynamics, employee well-being, and organizational effectiveness.
